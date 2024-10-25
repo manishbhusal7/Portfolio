@@ -1,12 +1,12 @@
 import {
-  Group,
-  Vector2,
-  MeshBasicMaterial,
-  PlaneGeometry,
-  Mesh,
   CanvasTexture,
+  Group,
   LinearFilter,
   LinearMipmapLinearFilter,
+  Mesh,
+  MeshBasicMaterial,
+  PlaneGeometry,
+  Vector2,
 } from "three";
 import Experience from "./Experience.js";
 
