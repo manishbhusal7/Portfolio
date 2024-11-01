@@ -88,7 +88,7 @@ export const LEFT_MONITOR_CSS_OBJECT_POSITION = new Vector3(
   -4.23009
 );
 export const LEFT_MONITOR_CSS_OBJECT_SCALE = new Vector3(0.00102, 0.00102, 1);
-export const LEFT_MONITOR_IFRAME_SRC = "https://resume-github-io-nine.vercel.app/";
+export const LEFT_MONITOR_IFRAME_SRC = "https://ubuntutheme.vercel.app/";
 export const LEFT_MONITOR_CAMERA_POSITION = new Vector3(1.06738, 2.60725, -1.6);
 export const LEFT_MONITOR_CAMERA_QUATERNION = new Quaternion(
   0,
@@ -111,7 +111,7 @@ export const RIGHT_MONITOR_CSS_OBJECT_POSITION = new Vector3(
 
 export const RIGHT_MONITOR_CSS_OBJECT_SCALE = new Vector3(0.00102, 0.00102, 1);
 export const RIGHT_MONITOR_CSS_OBJECT_ROTATION_Y = (-7.406 * Math.PI) / 180;
-export const RIGHT_MONITOR_IFRAME_SRC = "https://symcareai.vercel.app/";
+export const RIGHT_MONITOR_IFRAME_SRC = "https://resume-github-io-nine.vercel.app/";
 export const RIGHT_MONITOR_CAMERA_POSITION = new Vector3(
   2.13997,
   2.60716,
